@@ -6,7 +6,7 @@ import json
 import pandas as pd
 
 # %%
-service_key = ''
+service_key = 'Ody77GLuYeR%2FeFqbpduMN2Bi4Cka2fztbgnj6E2Eux1kUhy3e4epR28XKBUaObiqPoVzAizxXMBPXtMyuC9v9Q%3D%3D'
 
 # %%
 def get_request_url(url):

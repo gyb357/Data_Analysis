@@ -4,8 +4,8 @@ import datetime
 import json
 
 # %%
-client_id = ""
-client_secret = ""
+client_id = "tvje5npuqol8I5dM5bb0"
+client_secret = "uRppEZs9y_"
 encText = urllib.parse.quote("미 대선")
 
 # %%
